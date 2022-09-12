@@ -1,3 +1,7 @@
+## v0.2.3
+- Added support for signing generic messages (https://github.com/Hashpack/hashconnect#sign)
+- Deployed fix for 'export' bug
+
 ## v0.2.2
 - Fixed false pairing event when refreshing with no pairings
 - Fixed not subscribing to topic on second refresh when no pairings
